@@ -1,1 +1,1 @@
-# pyqttutorial
+# PyQt-Calculator
