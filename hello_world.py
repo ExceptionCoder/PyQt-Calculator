@@ -4,7 +4,7 @@ import os,sys
 BASE_FOLDER = os.path.dirname(os.path.realpath(__file__))
 UI_FOLDER = os.path.join(BASE_FOLDER,"ui")
 
-main_window_ui_file = os.path.join(UI_FOLDER,"main.ui")
+main_window_ui_file = os.path.join(UI_FOLDER,"hello_world.ui")
 main_window_uic = uic.loadUiType(main_window_ui_file)[0] ## Get Ui Class (Form Class)
 
 
